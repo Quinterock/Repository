@@ -1,0 +1,20 @@
+Integrantes del equipo:
+• Luis Gustavo Quintero Ramírez
+• Alfredo Galindo Ayala
+• Diego Gabriel Guzmán Guerrero
+
+
+Planteamiento de un problema:
+Se requiere tener un registro de las ventas y compras de productos, además de saber cuáles y productos fueron comprados y vendidos y cuántos de cada uno.
+
+Planteamiento de la solución:
+La solución que se planteó fue hacer una base de datos en la cual se puedan insertar los productos, precios y ventas.
+
+Requerimientos:
+ Funcionales: Se tendrá un software con el que se podrá manejar todos los datos.
+
+
+ No funcional: Se necesita conexión a internet para poder usar el software y la pagina web.
+
+
+ Dominio: Saber qué acciones y procedimientos se pueden realizar
